@@ -2,4 +2,4 @@ logs/*.log
 !logs/sample.log*
 *.exe
 *.apk
-
+*.json
